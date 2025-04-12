@@ -1,0 +1,10 @@
+##Resumo Aula 3 e 4 — Git Avançado e Controle de Branches
+
+git diff              -> Mostra as diferenças entre arquivos modificados  
+git reset <arquivo>   -> Remove o arquivo da área de stage (index)  
+git checkout -b <nome> -> Cria uma nova branch e já muda para ela  
+git branch            -> Mostra todas as branches do projeto  
+git checkout <nome>   -> Muda para uma branch existente  
+git merge <nome>      -> Une as alterações da branch indicada na branch atual  
+git branch -d <nome>  -> Deleta a branch indicada (você não pode estar dentro dela para deletar)  
+

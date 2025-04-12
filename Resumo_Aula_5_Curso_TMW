@@ -1,0 +1,9 @@
+#Inicio do aprendizado com GitHub
+
+
+git push -u origin main         -> Envia as alterações da branch main para o repositório remoto (origin)  
+git config --global credential.helper store -> Armazena o token localmente para não precisar digitar a cada push  
+touch <nome_arquivo>           -> Cria um novo arquivo vazio  
+git push origin <nome_branch>  -> Cria e envia uma nova branch para o GitHub  
+git pull origin main           -> Atualiza o repositório local com as alterações da branch main no GitHub  
+
