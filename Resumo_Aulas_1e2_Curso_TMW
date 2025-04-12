@@ -1,0 +1,19 @@
+#Resumo aula 1 e 2 do Curso Git e GitHub do TMW
+
+💻 Resumo Aula 1 e 2 — Comandos Básicos
+Comando	Descrição
+ls	->Lista o conteúdo do diretório atual
+cd	->Muda para outro diretório
+pwd	->Mostra o caminho (path) do diretório atual
+cd ..	->Volta uma pasta (diretório) acima
+mkdir	->Cria uma nova pasta
+cat	->Exibe o conteúdo de um arquivo
+nano	->Abre o editor de texto no terminal (Ubuntu)
+git ininit  ->Inicializa um novo repositório Git
+git status	->Mostra o status dos arquivos no repositório Git
+git add	<nome_arquivo> -> Adiciona arquivos para o próximo commit
+git add .	-> Adiciona todos os arquivos da pasta atual ao commit
+git commit -m <"Resumo das alteraçoes no commit">	->Cria um “checkpoint” com uma mensagem específica
+git log	->Lista todos os commits feitos no repositório
+rm -rf	->Remove pastas/arquivos de forma forçada e irreversível
+rm -rf .git	-> Remove completamente o repositório Git da pasta atual
